@@ -164,5 +164,7 @@ cython_debug/
 # dataset
 data/*.csv
 
+# output
+.html
 
 
