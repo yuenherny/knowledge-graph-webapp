@@ -1,0 +1,8 @@
+gravis
+matplotlib
+networkx
+notebook
+pandas
+plotly
+pyvis
+streamlit
